@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url(/css/fonts/montserrat/Montserrat-Bold.ttf) format(truetype);
+    
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(/css/fonts/montserrat/Montserrat-SemiBold.ttf) format(truetype);
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(/css/fonts/montserrat/Montserrat-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(/css/fonts/montserrat/Montserrat-ExtraBold.ttf) format(truetype);
+}
+
+
+
+@font-face {
+    font-family: "Fraunces";
+    src: url(/css/fonts/fraunces/Fraunces_72pt_SuperSoft-Light.ttf) format(truetype);
+}
+@font-face {
+    font-family: "Fraunces";
+    src: url(/css/fonts/fraunces/Fraunces_72pt-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family: "Fraunces";
+    src: url(/css/fonts/fraunces/Fraunces_72pt-SemiBold.ttf) format(truetype);
+}
